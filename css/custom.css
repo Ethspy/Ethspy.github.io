@@ -219,6 +219,9 @@ transform:scale(1.2);
   .caption {
     text-align: center;
   }
+  .intro{
+    padding-bottom: 10%;
+  }
 }
 
 
