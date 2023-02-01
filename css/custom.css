@@ -207,7 +207,7 @@ transform:scale(1.2);
     margin-top: 10%;
     margin-bottom: 10%;
   }
-  #rightcol {
+  .rightcol {
     margin-top: -15%;
   }
   #copyright {
