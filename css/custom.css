@@ -1,5 +1,5 @@
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 a {
@@ -16,8 +16,12 @@ ul {
 }
 
 p {
-  font-family: "Work Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: normal;
+}
+
+h3{
+  font-weight: bold;
 }
 
 .darker{
