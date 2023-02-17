@@ -190,6 +190,11 @@ transform:scale(1.2);
   padding-top: 1%;
 }
 
+.project {
+  font-size: 1em;
+  padding-top: 1%;
+}
+
 .contentimg{
   margin-bottom: 2%;
 }
@@ -239,6 +244,9 @@ transform:scale(1.2);
     margin-bottom: 0%;
   }
   .caption {
+    text-align: center;
+  }
+  .project {
     text-align: center;
   }
   .intro{
